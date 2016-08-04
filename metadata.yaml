@@ -1,0 +1,27 @@
+_repo: The-Poet-at-the-Breakfast-Table_2666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+description: ''
+gutenberg_issued: '2004-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- !lcsh 'Conversation -- Fiction'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+title: The Poet at the Breakfast-Table
+url: http://www.gutenberg.org/ebooks/2666
